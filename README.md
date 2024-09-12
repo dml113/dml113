@@ -1,1 +1,1 @@
-## [Welecome%20to%20my%20Github](https://capsule-render.vercel.app/api?type=rounded&height=298&color=gradient&text=Welecome%20to%20my%20Github&reversal=false&section=header&textBg=false&fontAlign=50&animation=fadeIn&fontAlignY=50)
+![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=rounded&height=298&color=gradient&text=Welecome%20to%20my%20Github&reversal=false&section=header&textBg=false&fontAlign=50&animation=fadeIn&fontAlignY=50)
